@@ -1,0 +1,25 @@
+<annotation>
+  <folder>XML</folder>
+  <filename>Pothole-517.jpg</filename>
+  <source>
+      <database>Pothole</database>
+  </source>
+  <size>
+    <width>549</width>
+    <height>412</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>92</xmin>
+      <ymin>129</ymin>
+      <xmax>435</xmax>
+      <ymax>289</ymax>
+    </bndbox>
+  </object>
+</annotation>

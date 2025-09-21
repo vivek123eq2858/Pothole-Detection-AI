@@ -54,17 +54,14 @@ This project aims to reduce accidents, save vehicles from damage, and make trave
 
 I’m looking to collaborate with mapping companies, smart city initiatives, and investors to scale this solution and integrate it into real-world navigation systems.
 
-📧 Contact: your_email@example.com
+📧 Contact: vasharma0212@gmail.com
 
-🔗 LinkedIn: Your LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/vivek-sharma-b34734384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ---
 
-# 🔹 Step 6: Upload Demo
-- Add a **demo video** (30–60s) in `dataset/output_videos/`.  
-- Take **screenshots** of detection results and add them in a `screenshots/` folder.  
-- Update your `README.md` with images using:
+
 
 ```markdown
 ![Demo](screenshots/output1.jpg)

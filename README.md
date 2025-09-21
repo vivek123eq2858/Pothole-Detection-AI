@@ -29,3 +29,42 @@ It highlights damaged road patches and provides live insights that can be integr
    ```bash
    git clone https://github.com/YOUR_USERNAME/Smart-Road-Insight.git
    cd Smart-Road-Insight
+
+
+   Install dependencies:
+
+pip install ultralytics opencv-python
+
+
+Run detection on images:
+
+python detect_images.py
+
+
+Run detection on video:
+
+python detect_video.py
+
+🌍 Vision
+
+Imagine a navigation system that not only guides you to your destination but also shows live road health.
+This project aims to reduce accidents, save vehicles from damage, and make travel safer.
+
+🤝 Collaboration
+
+I’m looking to collaborate with mapping companies, smart city initiatives, and investors to scale this solution and integrate it into real-world navigation systems.
+
+📧 Contact: your_email@example.com
+
+🔗 LinkedIn: Your LinkedIn Profile
+
+
+---
+
+# 🔹 Step 6: Upload Demo
+- Add a **demo video** (30–60s) in `dataset/output_videos/`.  
+- Take **screenshots** of detection results and add them in a `screenshots/` folder.  
+- Update your `README.md` with images using:
+
+```markdown
+![Demo](screenshots/output1.jpg)

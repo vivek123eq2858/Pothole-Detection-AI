@@ -38,12 +38,12 @@ pip install ultralytics opencv-python
 
 Run detection on images:
 
-python detect_images.py
+python test.py
 
 
 Run detection on video:
 
-python detect_video.py
+python video.py
 
 🌍 Vision
 

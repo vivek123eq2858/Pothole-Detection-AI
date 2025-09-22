@@ -5,7 +5,7 @@ This project uses **YOLOv8 (Ultralytics)** and **OpenCV** to detect potholes in 
 It highlights damaged road patches and provides live insights that can be integrated with **Google Maps, Apple Maps, Waze, and other navigation platforms** to help drivers take safer routes.  
 
 ## 🎥 Demo Video
-[Click here to watch demo](detaset/output_videos/output.mp4)
+[Click here to watch demo](dataset/output_videos/output.mp4)
 
 
 ## ✨ Features
